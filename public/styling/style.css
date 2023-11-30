@@ -30,8 +30,6 @@ main {
   -webkit-text-stroke-width: 0.3px;
 }
 
-
-
 .navbar-nav .nav-link.dropdown-toggle::after {
   content: none; 
 }
